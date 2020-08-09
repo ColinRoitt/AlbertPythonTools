@@ -4,7 +4,7 @@ I discovered [https://albertlauncher.github.io/](Albert) and was blown away by h
 ## Installation
 Largly the same of each extension.
 
-Clone or download folder and place in Python extension for Albert Launcher.
+Clone or download each folder and place, individually, in Python extension for Albert Launcher.
 
 The easiest way to access this folder is to open Albert pyton extsion list in the settings and double clicking on any item (you may have to navigate up one directoy layer).
 
